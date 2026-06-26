@@ -13,13 +13,9 @@ import Script from "next/script";
  * 4. Replace the placeholder below
  */
 
-const GA_MEASUREMENT_ID = "G-XXXXXXXXXX"; // TODO: Replace with your real GA4 ID
+const GA_MEASUREMENT_ID = "G-XJECWD1C7R";
 
 export default function GoogleAnalytics() {
-  if (GA_MEASUREMENT_ID === "G-XXXXXXXXXX") {
-    // Don't render if no real ID is configured
-    return null;
-  }
 
   return (
     <>

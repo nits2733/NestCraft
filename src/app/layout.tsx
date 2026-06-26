@@ -53,6 +53,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://nestcraft.in",
   },
+  verification: {
+    google: "_4kVQ0gy_ZcYvuh7wfL7wj5b20i3B-TOF0KAL3r08cE",
+  },
 };
 
 const jsonLd = {

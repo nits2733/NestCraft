@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       },
     ],
-    sitemap: 'https://nestcraft.in/sitemap.xml',
+    sitemap: 'https://nest-craft-six.vercel.app/sitemap.xml',
   };
 }

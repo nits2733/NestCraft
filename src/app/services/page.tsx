@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description:
     'Complete home interior services in Ranchi — modular kitchens, wardrobes, painting, electrical, plumbing, and maintenance. Transparent pricing from ₹50K. Milestone-based execution with 1-year warranty.',
   alternates: {
-    canonical: 'https://nestcraft.in/services',
+    canonical: 'https://nest-craft-six.vercel.app/services',
   },
 };
 

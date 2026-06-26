@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     title: "NestCraft — Trusted Home Interiors in Ranchi",
     description:
       "End the chaos of home renovation in Ranchi. NestCraft delivers reliable, transparent, and beautifully crafted interior design solutions — on time and on budget.",
-    url: "https://nestcraft.in",
+    url: "https://nest-craft-six.vercel.app",
     siteName: "NestCraft",
     locale: "en_IN",
     type: "website",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
       "End the chaos of home renovation in Ranchi. NestCraft delivers reliable, transparent, and beautifully crafted interior design solutions — on time and on budget.",
   },
   alternates: {
-    canonical: "https://nestcraft.in",
+    canonical: "https://nest-craft-six.vercel.app",
   },
   verification: {
     google: "_4kVQ0gy_ZcYvuh7wfL7wj5b20i3B-TOF0KAL3r08cE",
@@ -64,7 +64,7 @@ const jsonLd = {
   name: "NestCraft",
   description:
     "Trusted home interior design and renovation services in Ranchi, Jharkhand.",
-  url: "https://nestcraft.in",
+  url: "https://nest-craft-six.vercel.app",
   telephone: "+916205121214",
   email: "singhviveksingh022030105@gmail.com",
   address: {

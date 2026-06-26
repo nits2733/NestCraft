@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description:
     'Our 6-step transparent process takes you from possession keys to a beautifully designed home in 45 days. Milestone-based payments, daily updates, 1-year warranty. Stress-free interior execution in Ranchi.',
   alternates: {
-    canonical: 'https://nestcraft.in/how-it-works',
+    canonical: 'https://nest-craft-six.vercel.app/how-it-works',
   },
 };
 

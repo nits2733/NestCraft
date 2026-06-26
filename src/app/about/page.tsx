@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description:
     'NestCraft is on a mission to make home interiors trustworthy, transparent, and stress-free for Ranchi homeowners. No hidden costs, milestone-based payments, 1-year warranty on all work.',
   alternates: {
-    canonical: 'https://nestcraft.in/about',
+    canonical: 'https://nest-craft-six.vercel.app/about',
   },
 };
 
